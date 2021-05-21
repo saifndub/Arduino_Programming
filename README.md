@@ -15,8 +15,8 @@ This repository contains some programming of arduino language.
 1. Arduino: Board Config -> Arduino Uno (Arduino AVR Boards)
 2. Arduino: Select Serial Port -> Arduino LLC(www.arduino.cc)
 3. Arduino: Select Sketch -> (Select any file you choose)
-4. Arduino: Open Serial Monitor ->
-5. Arduino: Change Baud Rate ->
+4. Arduino: Open Serial Monitor
+5. Arduino: Change Baud Rate -> 9600
 
 ### To run arduino in proteus software follow the link :
 https://www.youtube.com/watch?v=fK5oI1XfDYI
