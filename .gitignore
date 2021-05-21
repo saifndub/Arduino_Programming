@@ -2,3 +2,7 @@ Saif/
 
 02_Liquid_Crystal_Display(LCD)/Proteus_File/*.PWI
 02_Liquid_Crystal_Display(LCD)/Proteus_File/*.DBK
+03_Altrasonic_Sensor/Proteus_File/*.PWI
+03_Altrasonic_Sensor/Proteus_File/*.DBK
+04_Gas_Sensor(MQ-2)/Proteus_File/*.PWI
+04_Gas_Sensor(MQ-2)/Proteus_File/*.DBK
