@@ -7,4 +7,5 @@
 04_Gas_Sensor(MQ-2)/Proteus_File/*.DBK
 05_Fire_Flame/Proteus_File/*.PWI
 05_Fire_Flame/Proteus_File/*.DBK
-
+08_Servo_Motor/*.DBK
+09_Stepper_Motor/*.DBK
