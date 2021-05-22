@@ -1,4 +1,3 @@
-
 // RemoteXY select connection mode and include library 
 #define REMOTEXY_MODE__ESP8266_HARDSERIAL_POINT
 

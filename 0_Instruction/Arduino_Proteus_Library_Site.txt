@@ -1,0 +1,18 @@
+FOR PROTEUS LIBRARY
+https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html
+https://projectiot123.com/2019/01/04/arduino-library-for-proteus-simulation/
+https://projectiot123.com/2019/12/25/download-proteus-library-of-components/
+https://componentsearchengine.com/search?country=US&language=en&source=1048575&term=MPU6050
+
+
+
+FOR ARDUINO HELP LINE & GUIDE
+https://microdigisoft.com/single.php?id=72
+https://electronicconnectors.blogspot.com/2014/10/i2c-in-arduino-uno-pic-microcontroller.html
+https://dronebotworkshop.com/
+https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/
+
+
+
+
+

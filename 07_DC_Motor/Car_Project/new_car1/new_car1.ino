@@ -90,18 +90,14 @@ void setup()
   pinMode (right_motor_B, OUTPUT);
   pinMode (left_motor_A, OUTPUT);
   pinMode (left_motor_B, OUTPUT);
-  
   // TODO you setup code
   //Serial.begin(9600);
-  
 }
-
 void loop() 
 { 
   RemoteXY_Handler ();
   
   digitalWrite(PIN_SWITCH_1, (RemoteXY.switch_1==0)?LOW:HIGH);
-
   if(RemoteXY.switch_1==1)
   {
     //manage the right motor

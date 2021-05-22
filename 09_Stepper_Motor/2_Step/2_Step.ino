@@ -1,5 +1,5 @@
+//Big size motor is suitable
 #include <Stepper.h>
-
 Stepper motor(2048, 8, 10, 9, 11);
 
 void setup() {

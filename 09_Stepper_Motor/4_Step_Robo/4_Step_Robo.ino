@@ -1,7 +1,7 @@
 //original source is http://www.geeetech.com/wiki/index.php/Stepper_Motor_5V_4-Phase_5-Wire_%26_ULN2003_Driver_Board_for_Arduino
 // Update by Ahmad Shamshiri for RoboJax.com
 // Published on March 27, 2017 in Aajx, ON, Canada.
-
+// Both Motor is suitable(Set in small)
 int Pin1 = 8; 
 int Pin2 = 9; 
 int Pin3 = 10; 
