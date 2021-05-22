@@ -17,6 +17,5 @@
 15_DHT_11-22_Temp&Humidity/*.PWI
 15_DHT_11-22_Temp&Humidity/*.DBK
 
-0_Libraries(KEEP in C,programFile)/Arduino-LiquidCrystal-I2C-library-master/LiquidCrystal_I2C.h
+0_Libraries(KEEP in C,programFile)/Arduino-LiquidCrystal-I2C-library-master
 
-Final_Project/
