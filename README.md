@@ -20,3 +20,7 @@ This repository contains some programming of arduino language.
 
 ### To run arduino in proteus software follow the link :
 https://www.youtube.com/watch?v=fK5oI1XfDYI
+
+### IntelliSense auto-configuration disabled :
+- Arduino: Disable Intelli Sense Auto Gen
+    - [x] When disabled vscode-arduino will not auto-generate an IntelliSense configuration (i.e. c_cpp_properties.json) by analyzing the compiler output.
